@@ -8,10 +8,9 @@ public class CompareTheTriplets{
             if (a[i] > b[i]) aPoint += 1;
             if (a[i] < b[i]) bPoint += 1;
         }
+
         arr.Add(aPoint);
         arr.Add(bPoint);
         return arr;
     }
-
-
 }
