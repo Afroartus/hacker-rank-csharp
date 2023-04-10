@@ -16,7 +16,6 @@ public class TheLoveLetterMystery{
                     runeDos--;
                 countOperation++;
             }
-
             i++;
             j--;
         }
